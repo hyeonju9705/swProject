@@ -1,0 +1,257 @@
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+D:\sw\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 변수수정2 고쳐야하는거 (2)\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 변수수정2 고쳐야하는거\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\PosSystem.Login.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.delete.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.calculate.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.money.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.calculate.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.delete.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.money.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO 2_mon (4) 마지막 저장본\POS-INFO 2_mon (2)\POS-INFO 2_mon\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.calculate.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.delete.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.money.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\Hongbin\Desktop\외주\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.calculate.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.delete.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.money.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.calculate.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.delete.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.money.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\SW\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.begin.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.calculate.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.delete.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.Main.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.login.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.MenuEdit.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.money.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\pc\Desktop\sw최종\POS-INFO (2) 오류수정2\POS-INFO (2) 오류수정2\POS-INFO\obj\Debug\POS-INFO.pdb

@@ -1,0 +1,72 @@
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+C:\Users\USER\source\repos\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+C:\Users\YEJUN\Documents\카카오톡 받은 파일\POS-INFO 2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+D:\sw\POS-INFO 2 (2)\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe.config
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.exe
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\bin\Debug\POS-INFO.pdb
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csprojAssemblyReference.cache
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form1.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Form2.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.Properties.Resources.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS_INFO.UserControl1.resources
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.GenerateResource.cache
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.csproj.CoreCompileInputs.cache
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.exe
+D:\sw\POS-INFO 변수수정2\POS-INFO 2\POS-INFO\POS-INFO\obj\Debug\POS-INFO.pdb
